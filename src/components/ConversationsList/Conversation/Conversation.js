@@ -7,7 +7,6 @@ export default function Conversation(props) {
     let profilePicutre = p2;
     
     if(props.data.photo==='p2') {
-      window.alert(props.data.photo );
       profilePicutre = p2;
     }
 
