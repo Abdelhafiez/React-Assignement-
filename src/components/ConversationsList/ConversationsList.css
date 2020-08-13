@@ -1,0 +1,4 @@
+.conversations-list {
+    display: flex;
+    flex-direction: column;
+  }

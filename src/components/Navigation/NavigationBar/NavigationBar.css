@@ -1,0 +1,9 @@
+.navigation-bar-item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+  }
+.navigation-bar-item:hover {
+    background: #eeeef1;
+    cursor: pointer;
+  }
